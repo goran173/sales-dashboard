@@ -12,7 +12,7 @@ An interactive Streamlit dashboard for retail sales analysis with real-time filt
 
 |                  Dashboard Overview                   |
 | :---------------------------------------------------: |
-| ![Full dashboard overview](images/full-dashboard.png) |
+| ![Full dashboard overview](images/full_dashboard.png) |
 
 |            Profitability Analysis Section             |
 | :---------------------------------------------------: |
