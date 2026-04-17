@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (often better to keep data out of git, but user might want the CSV if it's small.
+# However, Superstore is usually small enough. But let's ignore it if it's large.
+# In this case, we have a data/ folder. I'll include it but maybe ignore large files.)
+# data/*.csv
